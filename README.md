@@ -7,7 +7,9 @@
 - 🤔 I’m looking for help with internships 
 - 💬 Ask me about Hadoop, HDFS, Git, , Hive and Spark
 - 📫 How to reach me: 
+
       ***LinkedIn : https://www.linkedin.com/in/lakshay-sharma-7594a91b4/
       ***Twitter : https://twitter.com/Lakshay2k
+      
 - 😄 Soft skills: punctual, amicable behaviour
 
