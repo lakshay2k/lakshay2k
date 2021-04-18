@@ -17,5 +17,5 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=lakshay2k&&show_icons=true&title_color=ffffcc&icon_color=bb2acf&text_color=daf7dc&bg_color=556B2F">
+<img src="https://github-readme-stats.vercel.app/api?username=lakshay2k&&show_icons=true&title_color=ffffcc&icon_color=AAA&text_color=daf7dc&bg_color=556B2F">
 
