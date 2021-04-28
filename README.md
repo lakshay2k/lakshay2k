@@ -21,13 +21,16 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=lakshay2k&&show_icons=true&title_color=ffffcc&icon_color=AAA&text_color=daf7dc&bg_color=556B2F">
 
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Connect with me:
 
-[<img align="left" alt="Lakshay Sharma | Twitter" width="25px" src="https://abs.twimg.com/favicons/twitter.ico" />][twitter]
-[<img align="left" alt="Lakshay Sharma | LinkedIn" width="25px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />][linkedin]
+[<img align="left" alt="Lakshay Sharma | Twitter" width="45px" src="https://abs.twimg.com/favicons/twitter.ico" />][twitter]
+[<img align="left" alt="Lakshay Sharma | LinkedIn" width="45px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />][linkedin]
+
 
 <br />
+
 
 
 ### Feel free to drop me a mail at: <Email> Lakshaykmsharma@gmail.com </Email>
