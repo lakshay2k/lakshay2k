@@ -30,7 +30,7 @@
 <br />
 
 
-### Feel free to drop me a mail at: [Lakshay Sharma](lakshaykmsharma@gmail.com)
+### Feel free to drop me a mail at: <Email> Lakshaykmsharma@gmail.com </Email>
 
 
 
