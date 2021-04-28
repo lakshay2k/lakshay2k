@@ -22,4 +22,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=lakshay2k&&show_icons=true&title_color=ffffcc&icon_color=AAA&text_color=daf7dc&bg_color=556B2F">
 
 
-### Feel free to mail me at: [Lakshay Sharma](lakshaykmsharma@gmail.com)
+### Feel free to drop me a mail at: [Lakshay Sharma](lakshaykmsharma@gmail.com)
