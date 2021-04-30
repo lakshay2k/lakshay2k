@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Leetcode Problems**
 - 🌱 I’m currently learning **Machine Learning with PySpark**
-- 👯 I’m looking to collaborate on Big Data technologies
+- 👯 I’m looking to collaborate on **Big Data technologies**
 - 🤔 I’m looking for help with internships 
 - ✔  My preferred programming language is **C++**
 - 💬 Ask me about **Spark, Git, , Hive and Hadoop**
