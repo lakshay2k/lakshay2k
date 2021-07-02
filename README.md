@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on **Big Data and Cloud technologies**
 - 🤔 I’m looking for help with internships in **Big Data** 
 - ✔  My preferred programming language is **C++** and **Python**
-- 💬 Ask me about **Spark, Git, , Hive and Hadoop**
+- 💬 Ask me about **Spark, Git, , AWS, Hive and Hadoop**
 - 📫 How to reach me: **[Twitter - @lakshay2k](https://twitter.com/Lakshay2k)  ||  [LinkedIn - Lakshay Sharma](https://www.linkedin.com/in/lakshay-sharma-7594a91b4/)**
 - 😄 Soft skills: Ebullient,Punctual, Adaptable, Amicable behaviour, Delegator
 
