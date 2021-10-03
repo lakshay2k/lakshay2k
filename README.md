@@ -1,7 +1,7 @@
 ## Hi! I am Lakshay Sharma 👋
 
 
-- 🔭 I’m currently working on **Leetcode SQL Problems**
+- 🔭 I’m currently working on **Leetcode SQL Problems**  
 - 🌱 I’m currently learning **Machine Learning with PySpark**
 - 👯 I’m looking to collaborate on **Big Data and Cloud technologies**
 - 🤔 I’m looking for help with internships in **Big Data** and **Data Engineering** 
