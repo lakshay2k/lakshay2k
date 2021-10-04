@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Machine Learning with PySpark**
 - 👯 I’m looking to collaborate on **Big Data and Cloud technologies**
 - 🤔 I’m looking for help with internships in **Big Data** and **Data Engineering** 
-- ✔  My preferred programming language is **C++** and **Python**
+- ✔  My preferred programming language is **C++** and **Python**  
 - 💬 Ask me about **Spark, Git, SQL, AWS and Hadoop**
 - 📫 How to reach me: **[Twitter - @lakshay2k](https://twitter.com/Lakshay2k)  ||  [LinkedIn - Lakshay Sharma](https://www.linkedin.com/in/lakshay-sharma-7594a91b4/)**
 - 😄 Soft skills: Ebullient , Delegator, Punctual, Adaptable, Amicable behaviour
